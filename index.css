@@ -1,0 +1,27 @@
+body{
+    background-color: #FF6F59 ;
+    margin: 0;
+}
+#main-div{
+    background: #1ecbe1 ;
+
+    width: 70%;
+    height: 600px;
+    margin-left: 15%;
+  
+}
+    #name{
+        color:#FF6F59;
+        text-align: center;
+        border: solid #1ecbe1 5px;
+        margin-top: 25px;
+        padding-top: 25px;
+        font: 'serif';
+        font-size: 48px;
+        font-weight: 700;
+
+}
+hr{ 
+    width: 90%;
+    
+}
