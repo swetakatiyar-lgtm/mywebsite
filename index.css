@@ -4,7 +4,6 @@ body{
 }
 #main-div{
     background: #1ecbe1 ;
-
     width: 70%;
     height: 600px;
     margin-left: 15%;
@@ -13,7 +12,7 @@ body{
     #name{
         color:#FF6F59;
         text-align: center;
-        border: solid #1ecbe1 5px;
+        border: solid #FF6F59 5px;
         margin-top: 25px;
         padding-top: 25px;
         font: 'serif';
@@ -23,5 +22,26 @@ body{
 }
 hr{ 
     width: 90%;
-    
+    margin-left: 5%;
+}
+ 
+h1{
+    color: #333333;
+}
+
+p {
+  text-align: right;
+  color:#FF6F59;
+  /* margin-top: 5px;
+  padding-top: 5px; */
+  font: 'serif';
+  font-size: 48px;
+  font-weight: 700;
+
+}
+
+img {
+  float:left ;
+   margin-top: 5px;
+  padding-top: 5px;
 }
